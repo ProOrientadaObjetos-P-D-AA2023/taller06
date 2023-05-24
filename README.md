@@ -1,4 +1,4 @@
-# Taller 6 (Laboratorio): 
+# Taller 5 (Laboratorio): 
 ### Elaboración de ejercicios de Estructuras de datos en Programación Orientada a Objetos: Estructuras estáticas.
 
 #### Problemática
